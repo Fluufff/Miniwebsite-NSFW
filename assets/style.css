@@ -76,6 +76,12 @@ section, footer {
     background-color: #fff;
 }
 
+@media (max-width: 900px) {
+    section, footer {
+        width: 92%
+    }
+}
+
 section {
     flex: 1;
 
